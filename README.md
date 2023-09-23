@@ -22,19 +22,19 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
 #### Back-end
 
 <p align="center">
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/csharp.svg" alt="C#" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/csharp_dotnet.svg" alt=".NET" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/csharp_dotnet.svg" alt=".NET" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/java.svg" alt="Java" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/dart_colour.svg" alt="Dart" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/dart_colour.svg" alt="Dart" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/php.svg" alt="PHP" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/php.svg" alt="PHP" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
 </p>
 
 <br>
@@ -45,37 +45,37 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
 #### Web
 
 <p align="center">
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/react.svg" alt="React.js" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/react.svg" alt="React.js" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
+  <img src="hhttps://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/jquery.svg" alt="jQuery" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/jquery.svg" alt="jQuery" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/sass.svg" alt="Sass" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/sass.svg" alt="Sass" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/docker.svg" alt="Docker" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/docker.svg" alt="Docker" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/docker.svg" alt="ASP.NET" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/docker.svg" alt="ASP.NET" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/docker.svg" alt="Blazor" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/docker.svg" alt="Blazor" style="vertical-align:top; margin:6px 4px">
 </p>
 
 #### Mobile
 
 <p align="center">
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/flutter.svg" alt="Flutter" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/flutter.svg" alt="Flutter" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/flutter.svg" alt=".NET MAUI" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/flutter.svg" alt=".NET MAUI" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/xamarin_forms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/xamarin_forms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/xamarin_android.svg" alt="Xamarin.Android" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/xamarin_android.svg" alt="Xamarin.Android" style="vertical-align:top; margin:6px 4px">
 </p>
 
 #### Windows
