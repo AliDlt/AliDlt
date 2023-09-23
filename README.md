@@ -49,7 +49,7 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
   
   <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/react.svg" alt="React.js" style="vertical-align:top; margin:6px 4px">
   
-  <img src="hhttps://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
   
   <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/web/jquery.svg" alt="jQuery" style="vertical-align:top; margin:6px 4px">
   
