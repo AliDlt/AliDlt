@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/images/programming.webp" alt="Programming Image">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/images/programming.webp" alt="Programming Image">
 </div>
 
 <br>
@@ -81,11 +81,11 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
 #### Windows
 
 <p align="center">
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/windows/wpf.svg" alt="WPF" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/windows/wpf.svg" alt="WPF" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/windows/uwp.svg" alt="UWP" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/windows/uwp.svg" alt="UWP" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/xamarin_forms.svg" alt="Windows Forms" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/xamarin_forms.svg" alt="Windows Forms" style="vertical-align:top; margin:6px 4px">
 </p>
 
 <br>
@@ -96,15 +96,15 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together, just ping me 😉.
 
 <a href="mailto:alidlt4@gmail.com">
-  <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/gmail.svg" />
+  <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/socials/gmail.svg" />
 </a>
 
 <a href="mailto:alidlt1@yahoo.com">
-  <img align="left" alt="Email" width="130" height="100" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/email_me.svg" />
+  <img align="left" alt="Email" width="130" height="100" src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/socials/email_me.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/ali-dolatabadi-8139721b5/">
-  <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/socials/linkedin.svg" />
 </a>
 
 <div align="center">
