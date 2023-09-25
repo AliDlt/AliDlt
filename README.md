@@ -3,7 +3,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/images/programming.webp" alt="Programming Image" style="pointer-events: none;">
+<picture>
+  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/images/programming.webp" alt="Programming Image">
+  </picture>
 </div>
 
 <br>
