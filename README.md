@@ -35,22 +35,6 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
   <picture>
   <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px;">
   </picture>
-
-  <picture>
-  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/java.svg" alt="Java" style="vertical-align:top; margin:6px 4px;">
-  </picture>
-
-  <picture>
-  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/dart_colour.svg" alt="Dart" style="vertical-align:top; margin:6px 4px;">
-  </picture>
-
-  <picture>
-  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/php.svg" alt="PHP" style="vertical-align:top; margin:6px 4px;">
-  </picture>
-
-  <picture>
-  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px;">
-  </picture>
 </p>
 
 <br>
@@ -105,9 +89,6 @@ I am Ali Dolatabadi, a passionate Full-stack Developer with over 4 years of free
 #### Mobile
 
 <p align="center">
-  <picture>
-  <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/flutter.svg" alt="Flutter" style="vertical-align:top; margin:6px 4px;">
-  </picture>
 
   <picture>
   <img src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/frameworks/mobile/flutter.svg" alt=".NET MAUI" style="vertical-align:top; margin:6px 4px;">
@@ -156,9 +137,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.linkedin.com/in/ali-dolatabadi-8139721b5/">
   <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/socials/linkedin.svg" />
 </a>
-
-<div align="center">
-<picture>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif" alt="Animated Image">
-</picture>
-</div>
