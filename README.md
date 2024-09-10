@@ -5,13 +5,8 @@ Dedicated Full-stack Developer with over 6 years of experience in designing, dev
 ## 🌐 Socials:
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together, just ping me 😉.
 
-<a href="mailto:alidlt4@gmail.com">
-  <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/socials/gmail.svg" />
-</a>
-
-<a href="mailto:alidlt1@yahoo.com">
-  <img align="left" alt="Email" width="130" height="100" src="https://github.com/AliDlt/AliDlt/blob/master/assests/icons/socials/email_me.svg" />
-</a>
+alidlt1@yahoo.com
+alidlt4@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-dolatabadi) 
 
